@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = an.jacquemin@gmail.com
+	name = Anthony Jacquemin
